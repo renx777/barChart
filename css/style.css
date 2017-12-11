@@ -1,0 +1,8 @@
+.bar {
+        fill:grey;
+    }
+
+.bar:hover{
+  
+  fill:yellow;
+}
