@@ -1,6 +1,13 @@
+body{
+ background: #b00e0ef7;
+}
 .bar {
         fill:black;
 
+}
+
+h1{
+  text-shadow: 1px 9px 20px black;
 }
 
 .bar:hover{
@@ -11,10 +18,11 @@
 .card{
   margin:0 auto;
   width:1200px;
-  
-   -moz-box-shadow:    inset 0 0 10px #000000;
-   -webkit-box-shadow: inset 0 0 10px #000000;
-   box-shadow:         inset 0 0 10px #000000;
+  background:#a6bdb5;
+ 
+   -moz-box-shadow:    inset 0px 0px 17px 10px #000000;;
+   -webkit-box-shadow: inset 0px 0px 17px 10px #000000;;
+   box-shadow:         inset 0px 0px 17px 10px #000000;;
   
 }
 
